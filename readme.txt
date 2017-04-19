@@ -9,6 +9,6 @@ to change to your database and username and password; run bottom sql code to bui
 
 drop table user;
 create table user(username varchar(50), password varchar(15));
-insert into user value('xuefei','123');
-insert into user value('wang','321');
+insert into user value('Mercy','123');
+insert into user value('Abdul','321');
 
